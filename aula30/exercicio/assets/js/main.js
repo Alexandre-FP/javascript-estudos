@@ -85,7 +85,7 @@ function criaData(data) {
   return (
     `${nomeDia}, ${data.getDate()} de ${nomeMes}` +
     ` de ${data.getFullYear()} <br/>` +
-    `${zeroAEsquerda(data.getHours())} : ${zeroAEsquerda(data.getMinutes())}`
+    `${zeroAEsquerda(data.getHours())}:${zeroAEsquerda(data.getMinutes())}`
   );
 }
 
