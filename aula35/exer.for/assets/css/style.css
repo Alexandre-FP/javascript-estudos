@@ -20,10 +20,6 @@ body {
 
 }
 
-h1{
-    color: blue;
-}
-
 .container {
     max-width: 640px;
     margin: 200px auto;
